@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<historial>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:12</fecha_hora>
+      <saldo>7.0</saldo>
+      <deposito>1006.5</deposito>
+      <premio>1.0</premio>
+      <combinacion>044</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:12</fecha_hora>
+      <saldo>6.5</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>202</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:12</fecha_hora>
+      <saldo>6.0</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>441</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:13</fecha_hora>
+      <saldo>5.5</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>124</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:13</fecha_hora>
+      <saldo>5.0</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>440</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:13</fecha_hora>
+      <saldo>4.5</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>342</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:13</fecha_hora>
+      <saldo>4.0</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>343</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:14</fecha_hora>
+      <saldo>3.5</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>323</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:14</fecha_hora>
+      <saldo>3.0</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>420</combinacion>
+   </jugada>
+   <jugada>
+      <fecha_hora>18-mar-2014 10:34:14</fecha_hora>
+      <saldo>2.5</saldo>
+      <deposito>1006.5</deposito>
+      <premio>0.0</premio>
+      <combinacion>331</combinacion>
+   </jugada>
+</historial>
